@@ -5,7 +5,7 @@
 def welcome_my_github_page():
   name, age = "Rafael"., 32
   adress = "Russia, Ulyanovsk"
-  print(f"Name: {name}\nAge: {age}\nAddress: {address}")
+  print(f"Name: {name}\nAge: {age}\nAdress: {adress}")
 
 
  welcome_my_github_page() 
