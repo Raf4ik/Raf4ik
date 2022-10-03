@@ -26,9 +26,9 @@ def welcome_my_github_page():
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-##tg: @rafmav
+tg: @rafmav
 
-##vk: vk.com/rafmav
+vk: vk.com/rafmav
 </p>
  
 
